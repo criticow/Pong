@@ -1,0 +1,4 @@
+[submodule "deps/ddengine"]
+	path = deps/ddengine
+	url = https://github.com/criticow/ddengine.git
+	branch = v0.0
