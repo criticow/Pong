@@ -14,6 +14,8 @@ Right Paddle - UP/DOWN
 
 Engine: [ddengine](https://github.com/criticow/ddengine)  
 
+Playing GIF  
+![Playing GIF](gifs/playing.gif)  
 Menu screenshot  
 ![Menu Screenshot](screenshots/menu.png)  
 Game screenshot  
