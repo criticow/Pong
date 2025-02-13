@@ -12,4 +12,9 @@ Menu - ESC
 Left Paddle - W/S  
 Right Paddle - UP/DOWN  
 
-Engine: [ddengine](https://github.com/criticow/ddengine)
+Engine: [ddengine](https://github.com/criticow/ddengine)  
+
+Menu screenshot  
+![Menu Screenshot](screenshots/menu.png)  
+Game screenshot  
+![Game Screenshot](screenshots/game.png)  
